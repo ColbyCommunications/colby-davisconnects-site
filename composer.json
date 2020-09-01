@@ -7,7 +7,7 @@
         "johnpbloch/wordpress-core": "^5.1.1",
         "wpackagist-theme/twentyseventeen": "^2.1",
         "wpackagist-plugin/classic-editor": "^1.4",
-        "wpackagist-plugin/elementor": "^2.9.0",
+        "wpackagist-plugin/elementor": "^3.0.0",
         "colbycommunications/colby-groups": "dev-wp4-test",
         "wpackagist-plugin/capability-manager-enhanced": "1.9",
         "wpackagist-plugin/tablepress": "^1.10",
@@ -18,7 +18,7 @@
         "wpackagist-plugin/cloudflare": "^3.4.1",
         "devgeniem/wp-redis-object-cache-dropin": "^1.6",
         "wpackagist-plugin/cache-control": "^2.2.3",
-        "colbycommunications/colby-base-theme": "dev-master",
+        "colbycommunications/colby-davisconnects-theme": "dev-master",
         "wpackagist-plugin/public-post-preview": "^2.9.1",
         "wp-graphql/wp-graphql": "^0.12.1",
         "wp-graphql/wp-graphiql": "^1.0",
@@ -33,7 +33,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/ColbyCommunications/colby-base-theme"
+            "url": "https://github.com/ColbyCommunications/colby-davisconnects-theme"
         },
         {
             "type": "git",
