@@ -68,7 +68,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ColbyCommunications/colby-davisconnects-theme",
-                "reference": "7bcc0a793d908445f1063679a4cbab9cf5ce6ac0"
+                "reference": "c5e710c59319880493d0bc5eb1162d80c15b3126"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -108,7 +108,7 @@
             "keywords": [
                 "wordpress"
             ],
-            "time": "2020-09-01T15:59:02+00:00"
+            "time": "2020-09-01T17:07:57+00:00"
         },
         {
             "name": "colbycommunications/colby-groups",
